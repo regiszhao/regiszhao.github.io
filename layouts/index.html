@@ -1,0 +1,50 @@
+{{ define "main" }}
+
+<!-- <h1>About</h1> -->
+
+<br/>
+
+<h2>Hi, my name is Regis!</h2>
+
+<img id="profile-image" src="/profile.jpg" alt="me">
+
+<p>
+I'm an undergraduate student at the University of Toronto studying <a href="https://engsci.utoronto.ca/">Engineering Science</a>, in the Electrical and Computer Engineering major. When I'm not doing homework or studying, I find myself busy with things like playing volleyball, piano, and taking photos. I'm always passionate about learning new things, such as how to code websites like this one! You can check out some of my projects or photography below. I'm always open to discussing new ideas, opportunities, or simply chatting, so feel free to contact me as well!
+</p>
+<br/>
+
+<h1>Latest posts</h1>
+
+<div class="posts-list">
+{{ with .Site.GetPage "/posts" }}
+    {{ range first 3 (sort .Data.Pages "Date" "desc" (where .Pages ".Params.private" "!=" true))}}
+        <div class="post">
+            <p>
+                <div class="date">{{ .PublishDate.Format "Jan. 2, 2006" }}</div>
+                <h1><a href="{{ .Permalink }}" title="{{ .Title }}">{{ .Title }}</a></h1>
+                {{ .Summary }}
+            </p>
+        </div>    
+    {{ end }}
+{{ end }}
+</div>
+
+<h1>Latest photos</h1>
+
+<div class="image-grid">
+{{ with .Site.GetPage "/photos" }}
+    {{ range first 3 (sort .Data.Pages "Date" "desc")}}
+        <a href="{{ .Permalink }}" title="{{ .Title }}">
+        {{ $image := .Page.Resources.GetMatch .Params.image }}
+        {{ with $image }}
+            {{ $thumb := .Resize "400x" }}
+            <img src="{{ $thumb.RelPermalink }}" alt="{{ .Title }}" class="img-responsive">
+        {{end}}
+        </a>
+    {{ end }}
+{{ end }}
+</div>
+
+<h1>Contact Me</h1>
+
+{{ end }}

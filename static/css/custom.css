@@ -1,0 +1,9 @@
+ol, ul {
+    color: #444;
+    list-style-position: outside;
+}
+
+#profile-image {
+    width: auto;
+    height: 300px;
+}
