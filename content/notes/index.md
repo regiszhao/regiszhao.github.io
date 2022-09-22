@@ -7,11 +7,13 @@ draft: true
 Taking high quality notes is crucial towards any student's success in [EngSci](https://www.youtube.com/watch?v=BcPO4yhWSUg). I'm proud to say that I do in fact take notes! ... some of the time. Needless to say, I am still working on the "high quality" part. 
 
 
-Anyways, here I provide a non-extensive collection of notes I've taken and labs from EngSci courses, in the miraculous case that a fellow struggling student thinks these are useful. If courses are missing, it means I either took the notes with paper and pencil, or just didn't take them at all lol.
+Anyways, here I provide a non-extensive collection of notes I've taken and labs I've written in EngSci courses, in the miraculous case that a fellow struggling EngSci thinks these are useful. If courses are missing, it means I either took the notes with paper and pencil, or just didn't take them at all lol.
 
 
 
 ## YEAR 1
+I took pretty much all of my notes with paper and pencil in first year. The pdfs linked below were more like course summaries that I made for myself to study for midterms and finals.
+
 FALL
 - [ESC103 -- Engineering Mathematics and Computation](/notes/ESC103_notes.pdf)
 - [PHY180 -- Classical Mechanics, Pendulum Lab](/notes/PHY180_pendulum_lab.pdf)

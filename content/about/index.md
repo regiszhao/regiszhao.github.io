@@ -20,3 +20,6 @@ I'm an undergraduate student at the University of Toronto studying Engineering S
 
 ## Contact me
 I'm always open to discussing new ideas, opportunities, or simply chatting, so feel free to contact me as well!
+- Email: [regis.zhao@mail.utoronto.ca](mailto:regis.zhao@mail.utoronto.ca)
+- [Github](https://github.com/regiszhao)
+- [LinkedIn](https://www.linkedin.com/in/regis-zhao/)

@@ -12,7 +12,12 @@ Main highlights of the trip: Panorama Ridge, UBC, and East Hastings St LOL.
 
 Quite possibly the most beautiful, breath-taking place I've been so far in my life. Typically my family goes on nature-y vacations involving a lot of hiking so I've seen a few crazy views before, but this hike definitely took the top of my list. Maybe it's recency bias but regardless it was absolutely stunning. 
 
+{{<figure src="images/panorama-ridge.jpg" caption="At the top of Panaorama Ridge overlooking Garibaldi Lake, ft. my brother.">}}
+
 The main attraction at the top of the trail is Garibaldi Lake -- a massive lake coloured in the prettiest sky blue you'll ever see, with snowy mountain peaks behind it. But if you do a 180 degree turn from the lake, you'll find scenery equally as stunning (hence the name "*Panorama* Ridge") -- a gorgeous valley with light-blue streams flowing through, surrounded by mountains. And to top it all off, the Black Tusk stands just to the left of the valley. I personally thought the Black Tusk was even more beautiful than the lake. It's a tusk-shaped mountain peak that gives off an extremely powerful, grand, yet elegant aura. Even the name is epic. I could talk forever about how beautiful it was, but words, nor pictures, do it justice. If you ever have the time, please do yourself a favour and visit this place.
+
+<!-- ![The Black Tusk](images/black-tusk.jpg) -->
+{{<figure src="images/black-tusk.jpg" caption="The Black Tusk. So incredibly mighty, so incredibly spectacular.">}}
 
 Nearing a 30km hike, it was exhausting, especially at the very end. Terrain was getting extremely rocky and steep, and even though I'd like to think of myself as a decently fit guy, my legs were starting to cramp up and I was definitely starting to feel light-headed.
 
