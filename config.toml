@@ -1,4 +1,4 @@
-baseurl = ""
+baseurl = "https://regiszhao.github.io/"
 title = "regiszhao"
 theme = "hugo-theme-console"
 languageCode = "en-us"
