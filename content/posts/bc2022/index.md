@@ -1,7 +1,7 @@
 ---
 title: "Trip to BC"
 date: 2022-09-11T13:32:47-04:00
-draft: true
+draft: false
 ---
 
 This past summer, my family and I went on a trip to British Columbia for a week in mid-August. I've been there before, but I was like 8 years old at the time so I have minimal recollection of what happened and what things looked like.

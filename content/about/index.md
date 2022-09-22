@@ -1,7 +1,7 @@
 ---
 title: "About"
 date: 2022-09-11T03:05:08-04:00
-draft: true
+draft: false
 ---
 
 Hi, my name is Regis!
