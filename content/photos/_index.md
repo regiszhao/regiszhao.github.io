@@ -1,4 +1,0 @@
----
-title: "Photos"
-type: "gallery"
----

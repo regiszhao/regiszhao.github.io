@@ -1,32 +1,57 @@
 baseurl = "https://regiszhao.github.io/"
 title = "regiszhao"
-theme = "hugo-theme-console"
+theme = "smol"
 languageCode = "en-us"
 
+# Parameters
 [params]
-  # Cutting off the page title to two chars for mobile (console-demo -> co)
-  titleCutting = false
+    subtitle = "Currently trying to pass third year."
+    dateFmt = "02.01.2006 15:04"
 
-  # Set the animation style -- https://animate.style/
-  # To disable animations, please remove or comment animationStyle parameter
-  animateStyle = "animated zoomIn fast" 
+# Header
+[menu]
+  [[menu.main]]
+        identifier = "about"
+        name = "About"
+        url = "/about/"
+        weight = 1 
 
-  [[params.navlinks]]
-  name = "about/"
-  url = "about/"
+  [[menu.main]]
+        identifier = "posts"
+        name = "Posts"
+        url = "/posts/"
+        weight = 2 
 
-  [[params.navlinks]]
-  name = "posts/"
-  url = "posts/"
-  
-  [[params.navlinks]]
-  name = "notes/"
-  url = "notes/"
-  
-  [[params.navlinks]]
-  name = "projects/"
-  url = "projects/"
-  
-  [[params.navlinks]]
-  name = "photos/"
-  url = "photos/"
+#  [[menu.main]]
+#        identifier = "categories"
+#        name = "Categories"
+#        url = "/categories/"
+#        weight = 2 
+
+  [[menu.main]]
+        identifier = "notes"
+        name = "Notes"
+        url = "/notes/"
+        weight = 3 
+
+  [[menu.main]]
+        identifier = "tags"
+        name = "Tags"
+        url = "/tags/"
+        weight = 4
+
+# Footer
+  [[menu.footer]]
+        name = "Github"
+        url = "https://github.com/example"
+        weight = 1 
+
+    [[menu.footer]]
+        name = "Mastodon"
+        url = "https://example.com/@user"
+        weight = 2 
+
+    [[menu.footer]]
+        name = "Imprint"
+        url = "/imprint"
+        weight = 3 
