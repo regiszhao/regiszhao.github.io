@@ -4,12 +4,24 @@
 		<h1 id="homepage-h1">Hi, my name is Regis!</h1>
 		<figure id="profile-figure">
 			<img id="profile-image" src="/profile.jpg" alt="Me" />
-			<figcaption><p>This is more or less what I look like.</p></figcaption>
+			<figcaption><p>More or less what I look like.</p></figcaption>
 		</figure>
-		{{ $paginator := .Paginate (where .Site.RegularPages "Type" "in" .Site.Params.mainSections) }}
-		{{ range $paginator.Pages }}
-			{{ .Render "summary" }}
-		{{ end }}
-		{{ partial "pagination.html" . }}
+
+		<div>
+			<p>
+				I'm an undergraduate student at the University of Toronto studying Engineering Science, majoring in Electrical and Computer Engineering. When I'm not drowning in school work, I find myself busy with things like playing volleyball, piano, and taking photos.
+			</p>
+		</div>
+
+		<br>
+
+		<div>
+			<h2>Recent Posts</h2>
+			{{ $paginator := .Paginate (where .Site.RegularPages "Type" "in" .Site.Params.mainSections) }}
+			{{ range $paginator.Pages }}
+				{{ .Render "summary" }}
+			{{ end }}
+			{{ partial "pagination.html" . }}
+		</div>
 	</main>
 {{ end }}

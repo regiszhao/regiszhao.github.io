@@ -6,11 +6,21 @@ draft: false
 
 Hi, my name is Regis!
 
-I'm an undergraduate student at the University of Toronto studying Engineering Science, in the Electrical and Computer Engineering major. When I'm not doing homework or studying, I find myself busy with things like playing volleyball, piano, and taking photos. I'm always passionate about learning new things, such as how to code websites like this one! 
+I'm an undergraduate student at the University of Toronto studying Engineering Science, majoring in Electrical and Computer Engineering. When I'm not drowning in school work, I find myself busy with things like playing volleyball, piano, and taking photos.
 
 ## Some things I've been working on lately
+School. :(
 
 ## What I do for fun
+- Volleyball
+    - I play [9-man](https://en.wikipedia.org/wiki/9-man) in the summer
+- Music
+    - Piano (currently learning [Rachmaninoff Piano Sonata No. 2 in B-flat minor, Op. 36](https://www.youtube.com/watch?v=TsafFhTMrVM))
+    - Trumpet ([check out this banger](https://youtu.be/kRBKNkRKHQg) from junior high)
+    - Recently joined [Skule Orchestra](https://orchestra07.wixsite.com/skuleorchestra) as an auxiliary percussionist
+    - Some of my favourite artists: Kanye, Ariana Grande, Kanye, John Williams, Kanye, and a bit of Kanye West (by the way check out [my Spotify](https://open.spotify.com/user/22qvsgfq5pto4ui7oxnt64r2a?si=5f4bbe7a229146e5))
+- Taking photos
+- Skiing
 
 ## Why make a website?
 1. I think it's cool.
