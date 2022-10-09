@@ -1,7 +1,13 @@
 ---
 title: "University Notes"
 date: 2022-09-12T00:33:54-04:00
+slug: notes
+type: posts
 draft: false
+categories:
+  - default
+tags:
+  - school
 ---
 
 Taking high quality notes is crucial towards any student's success in [EngSci](https://www.youtube.com/watch?v=BcPO4yhWSUg). I'm proud to say that I do in fact take notes! ... some of the time. Needless to say, I am still working on the "high quality" part. 
@@ -47,6 +53,9 @@ After my roommate Brian got me hooked on learning vim in the second term of seco
     - [Rydberg Lab](/notes/PHY294_rydberg.pdf)
 
 
+
+## YEAR 3
+Coming soon.
 
 ## For those who are considering switching out of EngSci
 

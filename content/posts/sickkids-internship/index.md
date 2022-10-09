@@ -1,7 +1,13 @@
 ---
 title: "SickKids Internship"
 date: 2022-09-11T14:29:49-04:00
+slug: 2022-09-11-sickkids-internship
+type: posts
 draft: false
+categories:
+  - default
+tags:
+  - work
 ---
 
 I worked at The Hospital for Sick Children in [Dr. Adam Shlien's](https://www.sickkids.ca/en/staff/s/adam-shlien/) lab as a full-stack web developer this past summer (2022) and I thought it would be nice to reflect on my experience.

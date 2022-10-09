@@ -1,7 +1,12 @@
 ---
 title: "About"
 date: 2022-09-11T03:05:08-04:00
+slug: about
+type: posts
 draft: false
+categories:
+  - default
+tags:
 ---
 
 Hi, my name is Regis!

@@ -1,8 +1,16 @@
 ---
 title: "Digital Circuits and Verilog Review"
 date: 2022-09-26T04:20:37-04:00
+slug: 2022-09-26-digital-circuits-and-verilog-review
+type: posts
 draft: false
+categories:
+  - default
+tags:
+  - work
+  - school
 ---
+
 
 I have a job interview coming up that requires knowledge of digital circuits and Verilog. Of course I've already forgotten everything I learned in ECE253 so I've decided to make some notes as a post for review.
 
