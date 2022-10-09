@@ -1,6 +1,7 @@
 ---
 title: "First post"
 date: 2022-09-08T16:33:38-04:00
+lastmod: 2022-09-09T16:33:38-04:00
 slug: 2022-09-08-first-post
 type: posts
 draft: false

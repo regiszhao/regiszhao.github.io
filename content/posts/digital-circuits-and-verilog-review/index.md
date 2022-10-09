@@ -1,6 +1,7 @@
 ---
 title: "Digital Circuits and Verilog Review"
 date: 2022-09-26T04:20:37-04:00
+lastmod: 2022-10-02T04:20:37-04:00
 slug: 2022-09-26-digital-circuits-and-verilog-review
 type: posts
 draft: false

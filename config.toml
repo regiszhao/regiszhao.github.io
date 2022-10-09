@@ -6,7 +6,8 @@ languageCode = "en-us"
 # Parameters
 [params]
     subtitle = "Currently trying to pass third year."
-    dateFmt = "02.01.2006 15:04"
+    # dateFmt = "02.01.2006"
+    dateFmt = "Jan 2, 2006"
 
 # Header
 [menu]

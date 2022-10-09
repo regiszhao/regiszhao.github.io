@@ -1,6 +1,7 @@
 ---
 title: "About"
 date: 2022-09-11T03:05:08-04:00
+lastmod: 2022-10-09T03:05:08-04:00
 slug: about
 type: posts
 draft: false

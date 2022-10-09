@@ -1,6 +1,7 @@
 ---
 title: "Trip to BC"
 date: 2022-09-11T13:32:47-04:00
+lastmod: 2022-09-20T13:32:47-04:00
 slug: 2022-09-11-trip-to-bc
 type: posts
 draft: false

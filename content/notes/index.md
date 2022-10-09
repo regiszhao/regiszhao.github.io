@@ -1,6 +1,7 @@
 ---
 title: "University Notes"
 date: 2022-09-12T00:33:54-04:00
+lastmod: 2022-10-09T00:33:54-04:00
 slug: notes
 type: posts
 draft: false
